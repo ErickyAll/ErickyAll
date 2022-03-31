@@ -1,4 +1,4 @@
-### Olá! Sou o Érick Almeida, estudante e futuro Desenvolvedor WEB👋
+### Hi! I'm Érick Almeida, student and future WEB Developer👋
 
 
 <div align="center">
